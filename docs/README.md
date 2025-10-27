@@ -61,7 +61,7 @@ This README was created to meet the following acceptance criteria:
 
 To suggest updates or additions to any of these process documents:
 
-1. Open a new issue using the [Add/Update Content to Process Docs](.github/ISSUE_TEMPLATE/add-update-content-to-process-docs.yml) template
+1. Open a new issue using the [Add/Update Content to Process Docs](../.github/ISSUE_TEMPLATE/add-update-content-to-process-docs.yml) template
 2. Describe the proposed change and why it's needed
 3. Reference relevant stakeholders for review
 
