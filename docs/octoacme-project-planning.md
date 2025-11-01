@@ -16,6 +16,11 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 5. Identify dependencies and integration points
 6. Create release plan and milestone map
 
+**Key role participation:**
+- **Business Analyst:** Facilitates requirements workshops, documents acceptance criteria, ensures stakeholder alignment
+- **UX/UI Designer:** Provides design estimates, identifies design dependencies, participates in backlog refinement for UI/UX items
+- **Security Lead:** Reviews security requirements, identifies security-related tasks and dependencies
+
 ## Backlog Item Template
 - Title:
 - Description:
@@ -41,3 +46,6 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+- [ ] Design dependencies identified (UX/UI)
+- [ ] Security requirements documented
+- [ ] Business requirements validated

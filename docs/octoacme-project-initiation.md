@@ -19,6 +19,8 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Initial risk list
 - Resource needs (team roles, rough effort estimate)
 
+**Note:** Business Analysts can support requirements elicitation and stakeholder workshops during this phase to ensure clear, complete problem statements and success criteria.
+
 ## Project One-pager Template
 - Project name:
 - Problem statement:
