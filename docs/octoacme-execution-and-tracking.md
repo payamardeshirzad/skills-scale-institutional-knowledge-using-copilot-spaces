@@ -15,13 +15,16 @@ Guidance for managing day-to-day execution and tracking progress toward project 
   - Include issue link and acceptance criteria in PR description
   - Run automated tests and linting in CI before requesting review
   - Require at least one approval before merging (or team-defined policy)
+  - **UX/UI Designer** reviews design implementation for consistency with mockups
+  - **Security Lead** reviews security-sensitive changes and scan results
 
 ## Quality & Testing
 - Unit tests for new logic
 - Integration tests where applicable
 - End-to-end smoke tests for critical flows before release
-- Security scanning in CI
+- Security scanning in CI (reviewed by **Security Lead**)
 - Manual QA for feature acceptance when needed
+- **UX/UI Designer** validates design implementation and usability
 
 ## Reporting & Metrics
 - Track velocity and burndown

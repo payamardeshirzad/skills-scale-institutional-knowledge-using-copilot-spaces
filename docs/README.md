@@ -24,6 +24,10 @@ Welcome to OctoAcme's project management documentation. These guides describe ho
 - **Product Manager (PdM):** Defines outcomes, prioritizes backlog, and measures success
 - **Developers:** Implement features and collaborate on design and testability
 - **QA/Testing:** Validate quality and acceptance criteria
+- **UX/UI Designer:** Designs user interfaces and experiences, ensures usability and accessibility
+- **Release Manager:** Coordinates release planning, deployment, and communications
+- **Security Lead:** Oversees security practices, conducts assessments, ensures compliance
+- **Business Analyst:** Elicits and documents requirements, translates business needs into deliverables
 - **Stakeholders:** Provide inputs and approvals
 
 **Key Artifacts:**
@@ -44,6 +48,8 @@ Welcome to OctoAcme's project management documentation. These guides describe ho
 - [Release and Deployment](octoacme-release-and-deployment.md)
 - [Retrospective and Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
 - [Roles and Personas](octoacme-roles-and-personas.md)
+- [Role Handoff Checklist](octoacme-role-handoff-checklist.md)
+- [Team Onboarding Checklist](octoacme-team-onboarding-checklist.md)
 
 ## Acceptance Criteria
 
